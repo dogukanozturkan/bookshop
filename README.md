@@ -36,7 +36,7 @@ With this project, you will be able to:
 
 ## Installation (for development)
 
-### The pages for the components will be added with the next update.
+### The pages for the components will be added with the next update for now you can check the structure..
 ~~ ### **Admin Portal side:** ~~
 
 1. Run `npm install -g angular-cli` to install angular-cli.
