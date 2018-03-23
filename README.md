@@ -53,6 +53,8 @@ With this project, you will be able to:
 
 ### **Server side:**
 
+0. You have to install [Redis](https://redis.io/) and start redis-server ( You can configure on application. Default port is 6379 ) and redis-cli to monitoring.
+
 1. You can configure AWS RDS with right crendtials or you can easily create your local mysql instance and define bookstoreapi schema to start!
 
 2. Configure mail sender in backend application
